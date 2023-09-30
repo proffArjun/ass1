@@ -1,0 +1,92 @@
+
+body{
+    background-color: azure;
+}
+#navi {
+    text-align: center;
+    margin: 20px;
+    background-color: lightseagreen;
+    padding: 50px;
+    margin: 50px;
+    size: 20px;
+}
+#im1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border-style: dashed;
+    border-color: white;
+
+}
+.top{
+    color: white;
+    margin: 25px;
+    padding: 25px;
+    size: 20px;
+
+}
+#intro{
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+    text-decoration: wavy;
+}
+#im{
+    width: 200px;
+    height: 250px;
+    margin-left: 600px;
+    border: black;
+    border-radius: 25px;
+    border-style: dashed;
+
+}
+
+
+
+#skill{
+    
+    margin-left: 500px;
+    text-decoration: wavy;
+    margin: 20px;
+
+}
+
+
+.foot{
+    background-color: lightseagreen;
+    color: white;
+    margin-top: 50px;
+
+
+}
+.fo{
+    text-align: left;
+}
+#exp{
+    text-align: center;
+    text-decoration: wavy;
+    margin: 20px;
+
+
+}
+
+#vid{
+    align-self: center;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+h3{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    size: 20px;
+    background-color: lightseagreen;
+    color: white;
+    margin-bottom: 30px;
+}
+
+p{
+    size: 15px;
+    text-align: center;
+}
